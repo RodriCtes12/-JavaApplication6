@@ -25,6 +25,7 @@ public class JavaApplication6 {
         
         nombre = leer.next();
         System.out.println("hola mundo. Soy " + nombre + " y estoy programando en java");
+        System.out.println(" hola probando");
     }
     
 }
